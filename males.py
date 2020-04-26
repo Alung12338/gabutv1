@@ -38,7 +38,7 @@ if pilih == "1":
         os.system('python2 males.py')
 elif pilih == "2":
         os.system('git clone https://github.com/Alung12338/Phising-Fb')
-        os.system('cd Phising-Fb')
+        print " lalu ketik:cd Phising-Fb"
         os.system('python2 Alung.py')
 elif pilih == "3":
         print "DKI Jakarta 17:52 WIB"
