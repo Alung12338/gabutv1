@@ -29,7 +29,7 @@ if pilih == "1":
         os.system('pip2 install mechanize')
         os.system('pkg install git')
         os.system('pkg install figlet')
-        os . sistem ( 'permata instal lolcat' )
+        os . sistem ( 'gem instal lolcat' )
         os.system('apt install toilet')
         os.system('pkg install openssh')
         os.system('pkg install autossh')
