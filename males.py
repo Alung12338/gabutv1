@@ -28,9 +28,8 @@ if pilih == "1":
         os.system('pip2 install requests -y')
         os.system('pip2 install mechanize -y')
         os.system('pkg install git -y')
-        os.system('pkg install figlet -y'
-        os.system('pkg install cowsay -y')
-        os.system('pkg install php')
+        os.system('pkg install figlet -y')
+        os . sistem ( 'pkg instal php' )
         os.system('gem install lolcat')
         os.system('apt install toilet')
         os.system('pkg install openssh')
